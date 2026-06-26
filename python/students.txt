@@ -1,0 +1,4 @@
+aniket shukla,21,lucknow
+akshat,10,mumbai
+aditya,23,lucknow
+sneha , 18, hydrabad
